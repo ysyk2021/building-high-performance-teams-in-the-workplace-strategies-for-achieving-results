@@ -1,5 +1,4 @@
-Chapter 4: Effective Communication Skills for High-Performance Teams: Developing Effective Communication Skills for High-Performance Teams
-==========================================================================================================================================
+# Developing Effective Communication Skills for High-Performance Teams
 
 Introduction
 ------------

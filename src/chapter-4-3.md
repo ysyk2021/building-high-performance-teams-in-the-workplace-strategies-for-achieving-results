@@ -1,5 +1,4 @@
-Chapter 4: Effective Communication Skills for High-Performance Teams: Offering Constructive Feedback and Recognition
-====================================================================================================================
+# Offering Constructive Feedback and Recognition
 
 Offering constructive feedback and recognition is important for effective communication in high-performance teams. In this chapter, we will explore the importance of offering constructive feedback and recognition, as well as strategies for doing so effectively.
 

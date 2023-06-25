@@ -1,5 +1,4 @@
-Chapter 7: Leading High-Performance Teams Through Change and Uncertainty: Developing Strategies for Leading High-Performance Teams through Change and Uncertainty
-=================================================================================================================================================================
+# Developing Strategies for Leading High-Performance Teams through Change and Uncertainty
 
 Leading high-performance teams through change and uncertainty is a critical skill for achieving results in the workplace. In this chapter, we will explore strategies for developing effective leadership strategies during times of change and uncertainty.
 

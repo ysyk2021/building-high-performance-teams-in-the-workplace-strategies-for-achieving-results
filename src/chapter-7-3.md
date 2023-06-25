@@ -1,5 +1,4 @@
-Chapter 7: Leading High-Performance Teams Through Change and Uncertainty: Communicating Effectively During Times of Change
-==========================================================================================================================
+# Communicating Effectively During Times of Change
 
 Introduction
 ------------

@@ -1,5 +1,4 @@
-Chapter 3: Understanding Team Dynamics: Understanding Individual Roles and Responsibilities Within the Team
-===========================================================================================================
+# Understanding Individual Roles and Responsibilities Within the Team
 
 Introduction
 ------------

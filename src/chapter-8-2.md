@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Team Performance: Using Data and Metrics to Track Progress and Success
-==========================================================================================================
+# Using Data and Metrics to Track Progress and Success
 
 Introduction
 ------------

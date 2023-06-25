@@ -1,5 +1,4 @@
-Chapter 5: Building Trust and Psychological Safety in High-Performance Teams: Developing Strategies for Building Trust and Psychological Safety in High-Performance Teams
-=========================================================================================================================================================================
+# Developing Strategies for Building Trust and Psychological Safety in High-Performance Teams
 
 Introduction
 ------------

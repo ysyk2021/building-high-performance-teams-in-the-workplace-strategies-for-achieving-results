@@ -1,5 +1,4 @@
-Chapter 4: Effective Communication Skills for High-Performance Teams: Using Active Listening to Build Rapport and Understanding
-===============================================================================================================================
+# Using Active Listening to Build Rapport and Understanding
 
 Active listening is a key component of effective communication in high-performance teams. In this chapter, we will explore the importance of active listening and techniques for using it to build rapport and understanding within the team.
 

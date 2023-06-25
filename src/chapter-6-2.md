@@ -1,5 +1,4 @@
-Chapter 6: Managing Conflict and Overcoming Challenges in High-Performance Teams: Building Resilience and Managing Stress
-=========================================================================================================================
+# Building Resilience and Managing Stress
 
 Introduction
 ------------

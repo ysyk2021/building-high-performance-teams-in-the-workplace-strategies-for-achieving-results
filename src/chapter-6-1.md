@@ -1,5 +1,4 @@
-Chapter 6: Managing Conflict and Overcoming Challenges in High-Performance Teams: Developing Strategies for Managing Conflict and Overcoming Challenges in High-Performance Teams
-=================================================================================================================================================================================
+# Developing Strategies for Managing Conflict and Overcoming Challenges in High-Performance Teams
 
 Introduction
 ------------

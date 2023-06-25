@@ -1,5 +1,4 @@
-Chapter 3: Understanding Team Dynamics: Identifying Common Barriers to Teamwork
-===============================================================================
+# Identifying Common Barriers to Teamwork
 
 Understanding team dynamics is essential for building high-performance teams in the workplace. In this chapter, we will explore common barriers to teamwork and how to identify them.
 

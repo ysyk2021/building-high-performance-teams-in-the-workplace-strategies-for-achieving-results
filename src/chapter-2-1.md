@@ -1,5 +1,4 @@
-Chapter 2: Developing a High-Performance Team Culture: Developing Strategies for Creating a High-Performance Team Culture
-=========================================================================================================================
+# Developing Strategies for Creating a High-Performance Team Culture
 
 Developing a high-performance team culture is essential for achieving results in the workplace. In this chapter, we will explore strategies for creating a high-performance team culture.
 

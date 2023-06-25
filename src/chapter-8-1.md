@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Team Performance: Understanding the Importance of Measuring and Evaluating Team Performance
-===============================================================================================================================
+# Understanding the Importance of Measuring and Evaluating Team Performance
 
 Introduction
 ------------

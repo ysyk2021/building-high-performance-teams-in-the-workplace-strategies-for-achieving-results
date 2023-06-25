@@ -1,5 +1,4 @@
-Chapter 5: Building Trust and Psychological Safety in High-Performance Teams: Encouraging Diversity and Inclusivity
-===================================================================================================================
+# Encouraging Diversity and Inclusivity
 
 Introduction
 ------------

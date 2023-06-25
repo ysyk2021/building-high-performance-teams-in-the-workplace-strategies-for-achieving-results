@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Team Performance: Adjusting Team Strategies as Needed
-=========================================================================================
+# Adjusting Team Strategies as Needed
 
 Introduction
 ------------
