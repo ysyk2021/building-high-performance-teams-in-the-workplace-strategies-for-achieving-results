@@ -3,13 +3,6 @@ Chapter 4: Effective Communication Skills for High-Performance Teams
 
 In this chapter, we will explore effective communication skills for high-performance teams. We will discuss strategies for developing these skills, including active listening, offering constructive feedback, and recognition.
 
-Sub Chapters
-------------
-
-1. Developing Effective Communication Skills for High-Performance Teams
-2. Using Active Listening to Build Rapport and Understanding
-3. Offering Constructive Feedback and Recognition
-
 Developing Effective Communication Skills for High-Performance Teams
 --------------------------------------------------------------------
 

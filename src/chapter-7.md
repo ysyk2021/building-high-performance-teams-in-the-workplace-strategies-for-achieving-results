@@ -3,13 +3,6 @@ Chapter 7: Leading High-Performance Teams Through Change and Uncertainty
 
 In this chapter, we will explore strategies for leading high-performance teams through change and uncertainty. We will discuss ways to build resilience, manage stress, and communicate effectively during times of change.
 
-Sub Chapters
-------------
-
-1. Developing Strategies for Leading High-Performance Teams Through Change and Uncertainty
-2. Building Resilience and Managing Stress During Uncertain Times
-3. Communicating Effectively During Times of Change
-
 Developing Strategies for Leading High-Performance Teams Through Change and Uncertainty
 ---------------------------------------------------------------------------------------
 

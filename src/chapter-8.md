@@ -3,13 +3,6 @@ Chapter 8: Measuring and Evaluating Team Performance
 
 In this chapter, we will explore the importance of measuring and evaluating team performance. We will discuss ways to use data and metrics to track progress and success and adjust team strategies as needed.
 
-Sub Chapters
-------------
-
-1. Understanding the Importance of Measuring and Evaluating Team Performance
-2. Using Data and Metrics to Track Progress and Success
-3. Adjusting Team Strategies as Needed
-
 Understanding the Importance of Measuring and Evaluating Team Performance
 -------------------------------------------------------------------------
 

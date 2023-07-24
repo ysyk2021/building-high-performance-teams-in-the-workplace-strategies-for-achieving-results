@@ -1,6 +1,5 @@
 # Summary
 
-- [Introduction](README.md)
 - [Chapter 1: Introduction to High-Performance Teams](README.md)
   - [Defining high-performance teams and their importance in the workplace](chapter-1-1.md)
   - [Historical perspectives on teamwork theory and practice](chapter-1-2.md)

@@ -31,15 +31,6 @@ Encouraging diversity and inclusivity is also important for building trust and p
 * Creating an inclusive environment: Creating an inclusive environment involves ensuring that everyone on the team feels valued and respected, regardless of their background or identity.
 * Addressing bias: Addressing bias involves being aware of unconscious biases and taking steps to address them, such as providing training and education on diversity and inclusion.
 
-Overcoming Obstacles
---------------------
-
-Building trust and psychological safety in high-performance teams is not always easy. Obstacles such as resistance to change, lack of buy-in from team members, or poor communication may arise. To overcome these obstacles, individuals can try the following strategies:
-
-* Provide a clear sense of purpose: Providing a clear sense of purpose involves outlining the team's goals and how each team member's work contributes to those goals. This helps build buy-in and ensures that everyone is working towards the same goal.
-* Build trust: Building trust involves being transparent, consistent, and reliable. This can help team members feel comfortable expressing their ideas and concerns and promoting open communication.
-* Address conflicts: Addressing conflicts directly and finding mutually beneficial solutions can help build trust and psychological safety within the team.
-
 Conclusion
 ----------
 

@@ -3,13 +3,6 @@ Chapter 3: Understanding Team Dynamics
 
 In this chapter, we will explore team dynamics and the different factors that impact team performance. We will examine common barriers to teamwork and discuss individual roles and responsibilities within the team.
 
-Sub Chapters
-------------
-
-1. Recognizing the Different Factors That Impact Team Dynamics and Performance
-2. Identifying Common Barriers to Teamwork
-3. Understanding Individual Roles and Responsibilities Within the Team
-
 Recognizing the Different Factors That Impact Team Dynamics and Performance
 ---------------------------------------------------------------------------
 
