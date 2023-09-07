@@ -1,5 +1,3 @@
-Chapter 2: Developing a High-Performance Team Culture
-=====================================================
 
 Creating a high-performance team culture is essential for achieving success in the workplace. In this chapter, we will explore strategies for developing a high-performance team culture, including fostering clear communication and accountability, encouraging collaboration and innovation.
 

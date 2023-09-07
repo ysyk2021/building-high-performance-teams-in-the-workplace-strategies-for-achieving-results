@@ -1,5 +1,3 @@
-Chapter 5: Building Trust and Psychological Safety in High-Performance Teams
-============================================================================
 
 Building trust and psychological safety is essential for creating high-performance teams in the workplace. In this chapter, we will explore strategies for building trust and psychological safety in high-performance teams.
 

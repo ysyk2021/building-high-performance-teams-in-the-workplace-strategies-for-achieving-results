@@ -1,5 +1,3 @@
-Chapter 1: Introduction to High-Performance Teams
-=================================================
 
 High-performance teams are essential for achieving results in the workplace. In this chapter, we will explore the definition and importance of high-performance teams, as well as historical perspectives on teamwork theory and practice.
 

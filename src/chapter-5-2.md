@@ -1,4 +1,3 @@
-# Creating an Environment of Openness and Authenticity
 
 Building trust and psychological safety is key for effective communication and collaboration in high-performance teams. In this chapter, we will explore the importance of building trust and psychological safety, as well as strategies for creating an environment of openness and authenticity.
 

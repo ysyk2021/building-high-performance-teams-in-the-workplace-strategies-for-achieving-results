@@ -1,4 +1,3 @@
-# Historical Perspectives on Teamwork Theory and Practice
 
 The concept of high-performance teams has been studied and practiced for many years. In this chapter, we will explore historical perspectives on teamwork theory and practice.
 

@@ -1,4 +1,4 @@
-# Introduction
+
 
 Building a high-performance team in the workplace can be a challenging task, but it is also one of the most rewarding experiences for both the team leader and the team members. A high-performance team is a group of individuals who work together efficiently and effectively to achieve a common goal. These teams are characterized by their ability to innovate, problem-solve, and adapt to changes in the workplace.
 
@@ -11,3 +11,7 @@ In this book, we will explore the strategies that team leaders can use to build 
 Whether you are a seasoned team leader or new to the role, this book will provide you with the tools and insights you need to create a high-performance team that can achieve outstanding results. So, let's get started and explore the world of high-performance teams together.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

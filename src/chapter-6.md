@@ -1,5 +1,3 @@
-Chapter 6: Managing Conflict and Overcoming Challenges in High-Performance Teams
-================================================================================
 
 In this chapter, we will explore strategies for managing conflict and overcoming challenges within high-performance teams. We will discuss ways to build resilience, manage stress, and promote problem-solving and decision-making skills.
 
