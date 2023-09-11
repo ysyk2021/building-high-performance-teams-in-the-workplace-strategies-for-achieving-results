@@ -1,5 +1,4 @@
-Chapter 20: Understanding the Importance of Measuring and Evaluating Team Performance
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the significance of measuring and evaluating team performance within the context of building high-performance teams. Understanding the why and how of performance assessment is crucial for achieving results and continuous improvement.
 

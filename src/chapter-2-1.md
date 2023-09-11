@@ -1,5 +1,4 @@
-Chapter 9: Developing Strategies for Creating a High-Performance Team Culture
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Building a high-performance team culture is the cornerstone of achieving exceptional results in the workplace. In this chapter, we will delve into the strategies and techniques for fostering a culture that empowers teams to excel and consistently deliver outstanding outcomes.
 

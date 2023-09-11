@@ -1,5 +1,4 @@
-Chapter 16: Understanding Individual Roles and Responsibilities Within the Team
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the crucial aspects of clarifying and understanding individual roles and responsibilities within high-performance teams. A shared understanding of each member's role is essential for achieving results and maintaining team cohesion.
 

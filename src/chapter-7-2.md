@@ -1,5 +1,4 @@
-Chapter 13: Building Resilience and Managing Stress During Uncertain Times
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced and unpredictable work environments, building resilience and effectively managing stress are crucial skills for individuals and high-performance teams. This chapter explores strategies and techniques for developing resilience and coping with stress during uncertain times.
 

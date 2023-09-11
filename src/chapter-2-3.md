@@ -1,5 +1,4 @@
-Chapter 10: Encouraging Collaboration and Innovation
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Collaboration and innovation are the driving forces behind high-performance teams that consistently achieve exceptional results. In this chapter, we will explore strategies and techniques for fostering a culture that encourages collaboration and sparks innovation within your workplace.
 

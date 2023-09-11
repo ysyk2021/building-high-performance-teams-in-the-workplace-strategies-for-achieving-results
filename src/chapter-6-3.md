@@ -1,5 +1,4 @@
-Chapter 5: Promoting Problem-Solving and Decision-Making Skills
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective problem-solving and decision-making are essential components of high-performance teams. In this chapter, we will explore strategies and techniques for promoting these critical skills within your team, enabling them to tackle challenges and make informed decisions to achieve exceptional results.
 

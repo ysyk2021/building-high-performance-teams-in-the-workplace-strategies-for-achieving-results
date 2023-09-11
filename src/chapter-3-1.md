@@ -1,5 +1,4 @@
-Chapter 18: Recognizing the Different Factors that Impact Team Dynamics and Performance
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various factors that influence team dynamics and performance within high-performance teams. Recognizing these factors is crucial for understanding the complexities of teamwork and optimizing team effectiveness.
 

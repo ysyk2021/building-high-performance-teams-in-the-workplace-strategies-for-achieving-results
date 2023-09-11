@@ -1,5 +1,4 @@
-Chapter 12: Developing Strategies for Leading High-Performance Teams Through Change and Uncertainty
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Leading high-performance teams through change and uncertainty is a formidable challenge that requires specific strategies and adaptability. In this chapter, we will explore techniques and approaches for guiding your teams to success during periods of transition and unpredictability.
 

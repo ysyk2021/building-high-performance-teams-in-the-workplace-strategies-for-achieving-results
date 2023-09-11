@@ -1,5 +1,4 @@
-Chapter 6: Developing Strategies for Managing Conflict and Overcoming Challenges in High-Performance Teams
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic environment of high-performance teams, conflicts and challenges are inevitable. In this chapter, we will explore strategies and techniques for effectively managing conflicts, addressing challenges, and maintaining team cohesion to ensure continued success.
 

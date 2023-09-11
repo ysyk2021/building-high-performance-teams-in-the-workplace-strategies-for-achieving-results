@@ -1,5 +1,4 @@
-Chapter 6: Building Resilience and Managing Stress
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced and demanding workplace environments, building resilience and effectively managing stress are critical skills for both individuals and teams. In this chapter, we will explore strategies and techniques to foster resilience and manage stress, enabling high-performance teams to thrive.
 

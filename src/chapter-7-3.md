@@ -1,5 +1,4 @@
-Chapter 14: Communicating Effectively During Times of Change
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective communication is a cornerstone of building and maintaining high-performance teams, especially during times of change. In this chapter, we will explore strategies and techniques for communicating with clarity and impact when navigating change in the workplace.
 

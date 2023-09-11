@@ -1,5 +1,4 @@
-Chapter 8: Using Active Listening to Build Rapport and Understanding
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective communication is the bedrock of high-performance teams, and active listening plays a pivotal role in this process. In this chapter, we will delve into the importance of active listening, its benefits, and strategies for using it to build rapport and understanding within your team.
 

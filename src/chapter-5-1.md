@@ -1,5 +1,4 @@
-Chapter 15: Developing Strategies for Building Trust and Psychological Safety in High-Performance Teams
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Trust and psychological safety are foundational elements of high-performance teams. In this chapter, we will explore strategies and techniques for cultivating an environment where trust can flourish, and team members feel safe to take risks, collaborate, and excel.
 

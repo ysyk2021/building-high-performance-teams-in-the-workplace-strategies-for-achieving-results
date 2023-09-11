@@ -1,5 +1,4 @@
-Chapter 17: Identifying Common Barriers to Teamwork
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common barriers that high-performance teams often encounter and discuss strategies to overcome them. Recognizing and addressing these barriers is essential for achieving results and maintaining a cohesive team dynamic.
 

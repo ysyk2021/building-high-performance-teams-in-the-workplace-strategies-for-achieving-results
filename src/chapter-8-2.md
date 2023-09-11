@@ -1,5 +1,4 @@
-Chapter 19: Using Data and Metrics to Track Progress and Success
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical role of data and metrics in monitoring the progress and success of high-performance teams. Leveraging data-driven insights is a fundamental strategy for achieving results and continuous improvement.
 

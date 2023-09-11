@@ -1,5 +1,4 @@
-Chapter 4: Developing Effective Communication Skills for High-Performance Teams
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective communication is the cornerstone of any high-performance team. In this chapter, we will delve into the importance of communication skills, explore various communication strategies, and provide practical guidance on fostering a culture of open and productive communication within your team.
 

@@ -1,5 +1,4 @@
-Chapter 7: Offering Constructive Feedback and Recognition
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective feedback and recognition are essential elements for nurturing high-performance teams. In this chapter, we will explore strategies and techniques for providing constructive feedback and recognition to motivate and empower team members, ultimately contributing to the team's success.
 

@@ -1,5 +1,4 @@
-Chapter 11: Encouraging Diversity and Inclusivity
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Diversity and inclusivity are not just buzzwords; they are vital components of high-performance teams. In this chapter, we will explore strategies and techniques for fostering a culture that values diversity and promotes inclusivity within your workplace.
 
